@@ -106,7 +106,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video**: [How to Start with Next.js](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)
   3. Setup authentication with sessions.
      - **Reading**: [Authentication in Next.js](https://next-auth.js.org/getting-started/introduction)
-     - **Video**: [Session-Based Authentication in Next.js](https://www.youtube.com/watch?v=lAW3xL2w8vs)
+     - **Video**: [Session-Based Authentication in Next.js](https://www.youtube.com/watch?v=2JnEq3ZmLH0)
 
 - **Deliverables:**
   - A functional login/signup system.
