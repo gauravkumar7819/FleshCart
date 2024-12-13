@@ -83,6 +83,7 @@ This section illustrates the interaction between the **frontend (Next.js)**, **b
 ### **System Architecture**
 
 This section showcases the high-level architecture of the Grocery Web App, demonstrating the interactions between the user interface, backend services, and database.
+![image](https://github.com/user-attachments/assets/9ed595eb-789a-4bc4-b724-8d65dfb7f5de)
 
 ---
 
@@ -119,8 +120,8 @@ This project is structured to ensure a systematic and incremental development pr
      - **Reading**: [Strapi Documentation](https://docs.strapi.io)
      - **Video**: [Introduction to Strapi](https://www.youtube.com/watch?v=6FnwAbd2SDY)
   2. Display products dynamically based on categories.
-     - **Reading**: [Rendering Data in Next.js](https://nextjs.org/docs/basic-features/data-fetching)
-     - **Video**: [Data Fetching in Next.js](https://www.youtube.com/watch?v=f1x9lgX9rOY)
+     - **Reading**: [Rendering Data in Next.js](https://nextjs.org/learn-pages-router/basics/data-fetching)
+     - **Video**: [Data Fetching in Next.js](https://www.youtube.com/watch?v=ZdvEOW7D8eM)
 
 - **Deliverables:**
   - Interactive product categories and listings.
@@ -130,13 +131,14 @@ This project is structured to ensure a systematic and incremental development pr
 #### **Week 3: Cart and Checkout Functionality**
 - **Tasks:**
   1. Implement add-to-cart and remove-from-cart features.
-     - **Video**: [React State Management for Carts](https://www.youtube.com/watch?v=deMYYZn9jBg)
-  2. Enable real-time updates for cart totals.
-     - **Reading**: [State Management in React](https://react-redux.js.org)
-     - **Video**: [Using React State for Real-Time Updates](https://www.youtube.com/watch?v=35lXWvCuM8o)
-  3. Setup checkout page with PayPal integration.
+     - **Reading:**[React State Management](https://react.dev/learn/managing-state)
+     - **Video**: [React State Management for Carts](https://www.youtube.com/watch?v=-bEzt5ISACA)
+  3. Enable real-time updates for cart totals.
+     - **Reading**: [State Management in React](https://restdb.io/blog/react-in-realtime)
+     - **Video**: [Using React State for Real-Time Updates](https://www.youtube.com/watch?v=96YcViCGlRo&pp=ygUKI2N1cnNvcnhqcw%3D%3D)
+  4. Setup checkout page with PayPal integration.
      - **Reading**: [Integrating PayPal with React](https://developer.paypal.com/docs/api/overview/)
-     - **Video**: [PayPal Integration Guide](https://www.youtube.com/watch?v=zIcxLWCRDAw)
+     - **Video**: [PayPal Integration Guide](https://www.youtube.com/watch?v=IXxEdhA7fig)
 
 - **Deliverables:**
   - Fully functional cart and checkout page.
@@ -147,10 +149,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Test backend APIs using Postman.
      - **Reading**: [API Testing with Postman](https://www.postman.com/)
-     - **Video**: [Postman for Beginners](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
+     - **Video**: [Postman for Beginners](https://www.youtube.com/watch?v=VywxIQ2ZXw4&t=72s)
   2. Deploy the frontend to Vercel and the backend to Render.
      - **Reading**: [Deploying Next.js Apps](https://vercel.com/docs)
-     - **Video**: [How to Deploy on Vercel](https://www.youtube.com/watch?v=Cz3wIuvmHeM)
+     - **Video**: [How to Deploy on Vercel](https://www.youtube.com/watch?v=VigFI4TuwzI)
 
 - **Deliverables:**
   - Live application accessible via public URLs.
@@ -158,10 +160,18 @@ This project is structured to ensure a systematic and incremental development pr
 ---
 
 ### **Screenshots for Reference**
-- **Category Page**
-- **Product Listings**
-- **Cart Functionality**
-- **Checkout with PayPal**
+![Screenshot (222)](https://github.com/user-attachments/assets/211f7a06-99cb-4aa8-b68d-883ff1abce4a)
+![Screenshot (223)](https://github.com/user-attachments/assets/d829f9d6-1e2d-4493-b482-c77955b0a13d)
+![Screenshot (224)](https://github.com/user-attachments/assets/1ccf8378-dc04-4c04-bfe1-47bd288d8330)
+![Screenshot (213)](https://github.com/user-attachments/assets/aaafecf2-1950-4ed7-b91b-7dfa1f508983)
+![Screenshot (214)](https://github.com/user-attachments/assets/b1314761-a350-4010-9ce4-abeaafa4401c)
+![Screenshot (216)](https://github.com/user-attachments/assets/64414f39-c2a8-4967-8266-d74b68a91445)
+![Screenshot (217)](https://github.com/user-attachments/assets/b74d7110-425a-406c-a901-0cc8ed786d46)
+![Screenshot (218)](https://github.com/user-attachments/assets/f5c97ae7-e634-458f-91bb-bb1c67258d93)
+![Screenshot (219)](https://github.com/user-attachments/assets/0dfb1b95-aa73-4de8-9f89-20972fb1dd61)
+![Screenshot (220)](https://github.com/user-attachments/assets/9e5b0789-5302-43fb-a69e-f43fb27f9314)
+![Screenshot (221)](https://github.com/user-attachments/assets/45dea8d8-7043-4791-a76f-66649f5f32aa)
+
 
 ---
 
