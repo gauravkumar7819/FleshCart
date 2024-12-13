@@ -1,7 +1,8 @@
 ---
 
 # Grocery Web App: Streamlined Online Shopping Experience
-**FreshCart** This project involves building an online grocery store application using **Next.js** and **React**. The app includes features such as user authentication, dynamic product displays, an interactive cart, and secure checkout. This project provides a comprehensive understanding of modern web development while enabling participants to create a responsive and user-friendly e-commerce application.
+**FreshCart** 
+This project involves building an online grocery store application using **Next.js** and **React**. The app includes features such as user authentication, dynamic product displays, an interactive cart, and secure checkout. This project provides a comprehensive understanding of modern web development while enabling participants to create a responsive and user-friendly e-commerce application.
 
 ---
 
