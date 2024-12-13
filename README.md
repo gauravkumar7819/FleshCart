@@ -180,5 +180,6 @@ This project is structured to ensure a systematic and incremental development pr
 - [Strapi CMS Documentation](https://docs.strapi.io)
 - [Tailwind CSS Guide](https://tailwindcss.com/docs)
 - [PayPal Developer API](https://developer.paypal.com)
+- https://www.youtube.com/watch?v=7NN56jsaj6w
 
 ---
