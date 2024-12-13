@@ -103,7 +103,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video**: [Installing Node.js and VSCode](https://www.youtube.com/watch?v=TlB_eWDSMt4)
   2. Initialize the Next.js project.
      - **Reading**: [Getting Started with Next.js](https://nextjs.org/docs/getting-started)
-     - **Video**: [How to Start with Next.js](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
+     - **Video**: [How to Start with Next.js](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)
   3. Setup authentication with sessions.
      - **Reading**: [Authentication in Next.js](https://next-auth.js.org/getting-started/introduction)
      - **Video**: [Session-Based Authentication in Next.js](https://www.youtube.com/watch?v=lAW3xL2w8vs)
